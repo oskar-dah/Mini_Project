@@ -3,6 +3,7 @@ To run conf_matrix you need to install confusion_matrix using this command "pip 
 
 All the text file is located in the bbc folder. The bbc folder should be placed in the same folder as the miniproject.ipynb file
 
+The video presentation can be found here: https://www.youtube.com/watch?v=uAmMSOxjF8M
 
 Group Members
 Hamidullah Ehsani Qurban
